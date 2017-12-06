@@ -5,9 +5,12 @@ This repository contains supplementary data and details for the analyses present
 
 ### Fig1_Yeo-to-NeuroSynth
 
+![Figure 1](img/fig1_networks.png "Figure 1")
+
+
 - **NeuroSynth_reading_pXXX_z_FDR_0.01.nii.gz**: Forward-inference (pAgF) and reverse-inference (pFgA) maps for the term "reading". Downloaded Oct. 2017 from [NeuroSynth](http://neurosynth.org/analyses/terms/reading/).  
-- **Yeo_7Networks_2mm_LiberalMask_reg2MNI.nii.gz**:(Yeo et al., 2011)
-- **Intersection_reading_pXXX_Yeo7.nii.gz**: Yeo 7-Network parcellation, masked by the corresponding inference map from NeuroSynth. File is in MNI 152 2mm space.
+- **Yeo_7Networks_2mm_LiberalMask_reg2MNI.nii.gz**: Cortical parcellation estimated in [Yeo et al., 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174820/). The "Liberal Mask" volume (available [here](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011)) was transformed from 1mm "fsaverage" space to FSL's 2mm MNI 152 standard space template using *flirt*. 
+- **Intersection_reading_pXXX_Yeo7.nii.gz**: Yeo 7-network parcellation, masked by the corresponding inference map from NeuroSynth. File is in MNI 152 2mm space.
 
 ### Fig2_Network-Predicts-Reading
 
