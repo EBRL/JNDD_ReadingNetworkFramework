@@ -1,13 +1,13 @@
 ## Figures and Data for "Applying a network framework to the study of reading and dyslexia"
-##### Stephen Bailey, Katherine Aboud, Tin Nguyen and Laurie Cutting
+### Stephen Bailey, Katherine Aboud, Tin Nguyen and Laurie Cutting
 
 This repository contains supplementary data and details for the analyses presented in this paper. Data is organized into folders based on the figures / analysis performed. Many of the analyses are based on publicly available datasets, the details of which can be found below. 
 
 ### Fig1_Yeo-to-NeuroSynth
 
-- **NeuroSynth_reading_pAgF_z_FDR_0.01.nii.gz**: Forward-inference map for the term "reading". Downloaded Oct. 2017 from [NeuroSynth](http://neurosynth.org/analyses/terms/reading/).
-- **NeuroSynth_reading_pFgA_z_FDR_0.01.nii.gz**: Reverse-inference map for the term "reading". Downloaded Oct. 2017 from [NeuroSynth](http://neurosynth.org/analyses/terms/reading/).  
+- **NeuroSynth_reading_pXXX_z_FDR_0.01.nii.gz**: Forward-inference (pAgF) and reverse-inference (pFgA) maps for the term "reading". Downloaded Oct. 2017 from [NeuroSynth](http://neurosynth.org/analyses/terms/reading/).  
 - **Yeo_7Networks_2mm_LiberalMask_reg2MNI.nii.gz**:(Yeo et al., 2011)
+- **Intersection_reading_pXXX_Yeo7.nii.gz**: Yeo 7-Network parcellation, masked by the corresponding inference map from NeuroSynth. File is in MNI 152 2mm space.
 
 ### Fig2_Network-Predicts-Reading
 
