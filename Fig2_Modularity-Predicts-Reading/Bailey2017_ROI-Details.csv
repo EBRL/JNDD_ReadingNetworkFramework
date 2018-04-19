@@ -1,265 +1,265 @@
-ROI_Power2013,ROI_Power2011,X,Y,Z,Participation_Coefficient,Community_Density,In_Dyslexia,In_Maisog2008,In_Richlan2009,In_Paulesu2014,MasterAssignment_Power2011,SuggestedSystem_Power2011
-222,1,-25,-98,-12,0,11.2,0,0,0,0,-1,Uncertain
-147,2,27,-97,-13,0,7.8,0,0,0,0,-1,Uncertain
-256,3,24,32,-18,0,8.2,0,0,0,0,-1,Uncertain
-261,4,-56,-45,-24,0,4.8,1,1,0,0,-1,Uncertain
-225,5,8,41,-24,0,7.7,0,0,0,0,-1,Uncertain
-130,6,-21,-22,-20,0,8,0,0,0,0,-1,Uncertain
-136,7,17,-28,-17,0,8.5,0,0,0,0,-1,Uncertain
-260,8,-37,-29,-26,0,7.9,1,0,1,0,-1,Uncertain
-132,9,65,-24,-19,0,8.7,0,0,0,0,-1,Uncertain
-263,10,52,-34,-27,0,4.1,1,1,0,0,-1,Uncertain
-264,11,55,-31,-17,0,9,0,0,0,0,-1,Uncertain
-2,18,-7,-33,72,0,5.3,0,0,0,0,1,Sensory/somatomotor Hand
-3,19,13,-33,75,0,5.4,0,0,0,0,1,Sensory/somatomotor Hand
-6,31,10,-17,74,0,5.3,0,0,0,0,1,Sensory/somatomotor Hand
-9,39,2,-28,60,0,8.4,0,0,0,0,1,Sensory/somatomotor Hand
-122,75,6,67,-4,0,9.4,0,0,0,0,5,Default mode
-82,76,8,48,-15,0,10.3,0,0,0,0,5,Default mode
-146,78,-18,63,-9,0,8.8,0,0,0,0,5,Default mode
-133,83,-68,-23,-16,0,7.3,0,0,0,0,5,Default mode
-134,84,-58,-26,-15,0,7.4,0,0,0,0,-1,Uncertain
-105,104,-20,45,39,0,7.6,0,0,0,0,5,Default mode
-90,106,6,64,22,0,4.9,0,0,0,0,5,Default mode
-84,116,65,-12,-19,0,8,0,0,0,0,5,Default mode
-141,132,-31,19,-19,0,12.7,0,0,0,0,-1,Uncertain
-221,141,17,-91,-14,0,7.8,0,0,0,0,-1,Uncertain
-196,151,-15,-72,-8,0,3.9,0,0,0,0,7,Visual
-201,158,20,-86,-2,0,4.7,0,0,0,0,7,Visual
-202,159,15,-77,31,0,8.6,0,0,0,0,7,Visual
-210,165,26,-79,-16,0,6.3,0,0,0,0,7,Visual
-252,181,34,54,-13,0,8,0,0,0,0,8,Fronto-parietal Task Control
-167,226,-5,-28,-4,0,0,0,0,0,0,10,Subcortical
-186,247,33,-12,-34,0,6.7,0,0,0,0,-1,Uncertain
-188,250,-50,-7,-39,0,5.1,0,0,0,0,-1,Uncertain
-1,264,-7,-21,65,0,5.7,0,0,0,0,1,Sensory/somatomotor Hand
-193,148,20,-66,2,0.04,4.3,0,0,0,0,7,Visual
-208,170,6,-81,6,0.06,4.2,0,0,0,0,7,Visual
-219,172,-33,-79,-13,0.06,8.5,0,0,0,0,7,Visual
-72,89,6,-59,35,0.08,4.3,0,0,0,0,5,Default mode
-108,114,-20,64,19,0.09,6.6,0,0,0,0,5,Default mode
-16,37,-38,-15,69,0.1,4.9,0,0,0,0,1,Sensory/somatomotor Hand
-207,167,-3,-81,21,0.12,5.3,1,1,0,0,7,Visual
-7,34,-21,-31,61,0.13,5.6,0,0,0,0,1,Sensory/somatomotor Hand
-13,27,-38,-27,69,0.14,3.8,0,0,0,0,1,Sensory/somatomotor Hand
-5,28,20,-29,60,0.15,5.8,0,0,0,0,1,Sensory/somatomotor Hand
-8,35,-13,-17,75,0.15,5.3,0,0,0,0,1,Sensory/somatomotor Hand
-15,36,42,-20,55,0.15,5.2,1,0,0,1,1,Sensory/somatomotor Hand
-4,23,-23,-30,72,0.18,4.2,0,0,0,0,1,Sensory/somatomotor Hand
-10,40,3,-17,58,0.18,5.6,0,0,0,0,1,Sensory/somatomotor Hand
-190,145,8,-72,11,0.19,5.3,0,0,0,0,7,Visual
-98,86,-44,-65,35,0.2,4.1,0,0,0,0,5,Default mode
-12,24,-40,-19,54,0.21,6.6,1,0,1,0,1,Sensory/somatomotor Hand
-103,102,13,55,38,0.21,5.2,0,0,0,0,5,Default mode
-93,109,-3,44,-9,0.21,6,0,0,0,0,5,Default mode
-191,146,-8,-81,7,0.22,3.8,0,0,0,0,7,Visual
-128,82,46,16,-30,0.23,12.1,0,0,0,0,5,Default mode
-89,105,6,54,16,0.23,4.6,0,0,0,0,5,Default mode
-11,21,29,-17,71,0.24,4.4,0,0,0,0,1,Sensory/somatomotor Hand
-126,81,-44,12,-34,0.24,10.5,0,0,0,0,5,Default mode
-168,227,-22,7,-5,0.25,0,0,0,0,0,10,Subcortical
-92,108,9,54,3,0.26,7.1,0,0,0,0,5,Default mode
-77,95,11,-54,17,0.28,7.8,0,0,0,0,5,Default mode
-47,42,-49,-11,35,0.29,9.8,0,0,0,0,2,Sensory/somatomotor Mouth
-213,168,-40,-88,-6,0.29,7.7,0,0,0,0,7,Visual
-215,171,-26,-90,3,0.3,5.8,0,0,0,0,7,Visual
-199,156,15,-87,37,0.31,5.2,0,0,0,0,7,Visual
-198,155,-14,-91,31,0.32,3.9,0,0,0,0,7,Visual
-203,160,-16,-52,-1,0.32,6.9,0,0,0,0,7,Visual
-81,74,-41,-75,26,0.33,14.9,0,0,0,0,5,Default mode
-24,14,-14,-18,40,0.36,15.5,0,0,0,0,1,Sensory/somatomotor Hand
-197,152,-18,-68,5,0.36,4.8,0,0,0,0,7,Visual
-187,248,-31,-10,-36,0.36,7.8,0,0,0,0,-1,Uncertain
-97,115,-8,48,23,0.37,4.9,0,0,0,0,5,Default mode
-91,107,-7,51,-1,0.4,6.3,0,0,0,0,5,Default mode
-144,249,49,-3,-38,0.4,7.4,0,0,0,0,-1,Uncertain
-195,150,27,-59,-9,0.43,5.3,0,0,0,0,7,Visual
-17,41,38,-17,45,0.44,10.5,0,0,0,0,1,Sensory/somatomotor Hand
-48,44,51,-6,32,0.46,12.7,0,0,0,0,2,Sensory/somatomotor Mouth
-101,99,-16,29,53,0.46,6.6,0,0,0,0,5,Default mode
-140,85,27,16,-17,0.47,10.5,0,0,0,0,-1,Uncertain
-71,88,-7,-55,27,0.47,5.3,0,0,0,0,5,Default mode
-87,79,-46,-61,21,0.48,9.6,0,0,0,0,5,Default mode
-75,92,8,-48,31,0.51,4.3,0,0,0,0,5,Default mode
-22,38,-16,-46,73,0.52,9.3,0,0,0,0,1,Sensory/somatomotor Hand
-220,140,8,-91,-7,0.53,7.9,0,0,0,0,-1,Uncertain
-106,121,13,30,59,0.56,8,0,0,0,0,5,Default mode
-127,128,52,7,-30,0.61,11.5,0,0,0,0,5,Default mode
-131,136,4,-48,51,0.61,13.1,0,0,0,0,6,Memory retrieval?
-184,245,22,-58,-23,0.61,0,0,0,0,0,13,Cerebellar
-204,162,24,-87,24,0.62,4.2,0,0,0,0,7,Visual
-129,129,-53,3,-27,0.64,9.2,0,0,0,0,5,Default mode
-194,149,-24,-91,19,0.64,4.5,0,0,0,0,7,Visual
-112,124,-26,-40,-8,0.65,15.7,0,0,0,0,5,Default mode
-104,103,-10,55,39,0.66,3.8,0,0,0,0,5,Default mode
-73,90,-11,-56,16,0.73,8.9,0,0,0,0,5,Default mode
-145,12,34,38,-12,0.81,10.6,0,0,0,0,-1,Uncertain
-74,91,-3,-49,13,0.84,7.4,0,0,0,0,5,Default mode
-185,246,1,-62,-18,0.85,0,0,0,0,0,13,Cerebellar
-109,117,-56,-13,-10,0.86,11.7,0,0,0,0,5,Default mode
-211,153,43,-78,-12,0.91,6.8,0,0,0,0,7,Visual
-124,127,28,-77,-32,0.92,0,0,0,0,0,5,Default mode
-209,143,18,-47,-10,0.92,9.8,0,0,0,0,7,Visual
-206,166,-16,-77,34,0.92,13.1,0,0,0,0,7,Visual
-76,93,15,-63,26,0.93,9.1,0,0,0,0,5,Default mode
-216,173,37,-81,1,0.95,4.3,0,0,0,0,7,Visual
-38,64,-38,-33,17,0.96,6.3,0,0,0,0,4,Auditory
-30,26,50,-20,42,0.98,10.1,0,0,0,0,1,Sensory/somatomotor Hand
-49,45,-53,-10,24,0.99,10.5,0,0,0,0,2,Sensory/somatomotor Mouth
-164,222,6,-24,0,0.99,0,0,0,0,0,10,Subcortical
-223,142,-12,-95,-13,1,10.8,1,0,1,0,-1,Uncertain
-229,175,48,25,27,1,9,0,0,0,0,8,Fronto-parietal Task Control
-50,46,66,-8,25,1.02,8.6,0,0,0,0,2,Sensory/somatomotor Mouth
-79,97,23,33,48,1.02,6.2,0,0,0,0,5,Default mode
-80,101,22,39,39,1.02,12.1,0,0,0,0,5,Default mode
-254,180,24,45,-15,1.04,8.6,0,0,0,0,8,Fronto-parietal Task Control
-100,98,-10,39,52,1.13,5.4,0,0,0,0,5,Default mode
-94,110,8,42,-5,1.13,7.1,0,0,0,0,5,Default mode
-113,125,27,-37,-13,1.17,15.3,0,0,0,0,5,Default mode
-189,144,40,-72,14,1.26,9.7,0,0,0,0,7,Visual
-85,119,65,-31,-9,1.42,11.7,0,0,0,0,5,Default mode
-19,25,29,-39,59,1.43,9.1,0,0,0,0,1,Sensory/somatomotor Hand
-181,243,-16,-65,-20,1.43,0,0,0,0,0,13,Cerebellar
-78,96,52,-59,36,1.44,6.2,0,0,0,0,5,Default mode
-29,20,-54,-23,43,1.47,8.3,0,0,0,0,1,Sensory/somatomotor Hand
-107,94,-2,-37,44,1.47,13.3,0,0,0,0,5,Default mode
-40,66,-49,-26,5,1.49,10.6,1,0,1,0,4,Auditory
-110,123,52,-2,-16,1.49,13.3,0,0,0,0,5,Default mode
-88,80,43,-72,28,1.52,16.6,0,0,0,0,5,Default mode
-99,87,-39,-75,44,1.55,7.3,0,0,0,0,5,Default mode
-36,67,43,-23,20,1.56,9.6,0,0,0,0,4,Auditory
-200,157,29,-77,25,1.59,7.3,0,0,0,0,7,Visual
-18,22,10,-46,73,1.62,15.4,0,0,0,0,1,Sensory/somatomotor Hand
-21,32,22,-42,69,1.64,9.1,0,0,0,0,1,Sensory/somatomotor Hand
-86,120,-68,-41,-5,1.64,8,0,0,0,0,5,Default mode
-214,169,37,-84,13,1.65,4.9,0,0,0,0,7,Visual
-258,253,-47,-51,-21,1.66,11.6,1,0,1,1,-1,Uncertain
-120,130,47,-50,29,1.68,16.1,0,0,0,0,5,Default mode
-135,137,-46,31,-13,1.72,10.8,0,0,0,0,5,Default mode
-95,111,-11,45,8,1.76,5.3,0,0,0,0,5,Default mode
-37,63,58,-16,7,1.88,9,0,0,0,0,4,Auditory
-34,61,32,-26,13,1.93,12,0,0,0,0,4,Auditory
-123,184,17,-80,-34,1.95,0,0,0,0,0,-1,Uncertain
-255,182,-21,41,-20,1.99,7.8,0,0,0,0,-1,Uncertain
-237,201,-42,25,30,2.01,8.5,0,0,0,0,8,Fronto-parietal Task Control
-165,224,-10,-18,7,2.03,0,1,1,0,0,10,Subcortical
-251,179,58,-53,-14,2.04,12.3,0,0,0,0,8,Fronto-parietal Task Control
-183,244,-32,-55,-25,2.04,10.2,0,0,0,0,13,Cerebellar
-217,154,-47,-76,-10,2.06,14.3,0,0,0,0,7,Visual
-26,51,-10,-2,42,2.11,12.8,0,0,0,0,3,Cingulo-opercular Task Control
-42,68,-50,-34,26,2.12,14.2,1,1,0,0,4,Auditory
-244,192,44,-53,47,2.13,9,0,0,0,0,8,Fronto-parietal Task Control
-41,43,36,-9,14,2.15,13.1,0,0,0,0,2,Sensory/somatomotor Mouth
-192,147,-28,-79,19,2.17,12.2,0,0,0,0,7,Visual
-20,30,-29,-43,61,2.22,8.5,0,0,0,0,1,Sensory/somatomotor Hand
-27,16,10,-2,45,2.24,11.2,0,0,0,0,1,Sensory/somatomotor Hand
-39,65,-60,-25,14,2.25,9.2,0,0,0,0,4,Auditory
-45,71,56,-5,13,2.25,12.2,0,0,0,0,4,Auditory
-212,161,42,-66,-8,2.34,8.2,0,0,0,0,7,Visual
-43,69,-53,-22,23,2.35,13.4,0,0,0,0,4,Auditory
-44,70,-55,-9,12,2.38,10.4,0,0,0,0,4,Auditory
-102,100,-35,20,51,2.55,6.1,0,0,0,0,5,Default mode
-239,191,-28,-58,48,2.62,8.6,0,0,0,0,8,Fronto-parietal Task Control
-118,135,11,-66,42,2.63,13.6,0,0,0,0,6,Memory retrieval?
-230,186,47,10,33,2.65,12.6,0,0,0,0,8,Fronto-parietal Task Control
-173,232,-31,-11,0,2.67,0,0,0,0,0,10,Subcortical
-231,187,-41,6,33,2.69,8.2,0,0,0,0,8,Fronto-parietal Task Control
-243,190,49,-42,45,2.78,8.6,0,0,0,0,8,Fronto-parietal Task Control
-111,77,-13,-40,1,2.79,13,0,0,0,0,5,Default mode
-64,235,54,-43,22,2.79,16.9,0,0,0,0,11,Ventral attention
-119,118,-58,-30,-4,2.83,10.4,0,0,0,0,5,Default mode
-53,237,-55,-40,14,2.94,10.7,1,1,1,0,11,Ventral attention
-32,33,-45,-32,47,2.98,9.2,1,0,0,1,1,Sensory/somatomotor Hand
-242,189,38,43,15,3,7.7,0,0,0,0,8,Fronto-parietal Task Control
-14,29,44,-8,57,3.01,11.5,0,0,0,0,1,Sensory/somatomotor Hand
-246,177,-53,-49,43,3.07,13.7,1,0,1,1,8,Fronto-parietal Task Control
-115,133,-2,-35,31,3.08,8.2,0,0,0,0,6,Memory retrieval?
-139,139,49,35,-12,3.14,14,0,0,0,0,5,Default mode
-166,225,12,-17,8,3.16,0,1,1,0,0,10,Subcortical
-28,49,19,-8,64,3.17,13.3,0,0,0,0,3,Cingulo-opercular Task Control
-169,228,-15,4,8,3.2,0,1,0,1,1,10,Subcortical
-240,178,-23,11,64,3.27,17.5,0,0,0,0,8,Fronto-parietal Task Control
-35,62,65,-33,20,3.28,11,0,0,0,0,4,Auditory
-235,198,-42,45,-2,3.33,11.1,0,0,0,0,8,Fronto-parietal Task Control
-232,188,-42,38,21,3.35,7.7,0,0,0,0,8,Fronto-parietal Task Control
-52,47,-3,2,53,3.36,9.5,1,0,0,1,3,Cingulo-opercular Task Control
-83,112,-2,38,36,3.36,8.6,0,0,0,0,5,Default mode
-137,131,-49,-42,1,3.36,12.7,0,0,0,0,5,Default mode
-25,15,0,-15,47,3.39,14.6,0,0,0,0,1,Sensory/somatomotor Hand
-114,126,-34,-38,-16,3.39,17.4,0,0,0,0,5,Default mode
-171,230,23,10,1,3.39,0,0,0,0,0,10,Subcortical
-125,185,35,-67,-34,3.4,0,0,0,0,0,-1,Uncertain
-249,199,33,-53,44,3.4,10.8,0,0,0,0,8,Fronto-parietal Task Control
-55,53,13,-1,70,3.42,8.6,0,0,0,0,3,Cingulo-opercular Task Control
-179,241,53,33,1,3.44,15.1,0,0,0,0,11,Ventral attention
-117,134,-7,-71,42,3.45,14.5,0,0,0,0,6,Memory retrieval?
-61,58,-51,8,-2,3.46,11.6,0,0,0,0,3,Cingulo-opercular Task Control
-65,240,56,-46,11,3.46,12.8,0,0,0,0,11,Ventral attention
-155,214,-28,52,21,3.5,10.8,0,0,0,0,9,Salience
-158,219,26,50,27,3.5,9.6,0,0,0,0,9,Salience
-176,223,-2,-13,12,3.51,0,1,0,1,0,10,Subcortical
-182,183,-18,-76,-24,3.58,0,0,0,0,0,-1,Uncertain
-96,113,-3,42,16,3.59,6.7,0,0,0,0,5,Default mode
-174,233,15,5,7,3.61,0,0,0,0,0,10,Subcortical
-156,206,31,33,26,3.63,14.4,1,0,1,0,9,Salience
-59,238,52,-33,8,3.63,10.5,0,0,0,0,11,Ventral attention
-152,210,37,32,-2,3.71,15.4,0,0,0,0,9,Salience
-205,163,6,-72,24,3.72,8.9,0,0,0,0,7,Visual
-228,220,-39,51,17,3.72,11.9,0,0,0,0,9,Salience
-236,200,43,49,-2,3.73,13.2,0,0,0,0,8,Fronto-parietal Task Control
-233,176,-47,11,23,3.74,12.2,0,0,0,0,8,Fronto-parietal Task Control
-69,254,46,-47,-17,3.78,12.8,0,0,0,0,-1,Uncertain
-70,205,42,0,47,3.8,15.4,0,0,0,0,9,Salience
-163,217,10,22,27,3.8,11.8,0,0,0,0,9,Salience
-46,72,59,-17,29,3.86,12.9,1,0,1,0,4,Auditory
-253,174,-44,2,46,3.89,17.5,1,0,0,1,8,Fronto-parietal Task Control
-234,197,-34,55,4,3.9,11.8,0,0,0,0,8,Fronto-parietal Task Control
-116,221,2,-24,30,3.9,6.6,0,0,0,0,6,Memory retrieval?
-57,13,-7,-52,61,3.91,14.8,0,0,0,0,1,Sensory/somatomotor Hand
-178,207,48,22,10,3.92,14.7,0,0,0,0,9,Salience
-262,251,10,-62,61,3.92,14.7,0,0,0,0,12,Dorsal attention
-54,73,-30,-27,12,3.97,9.8,0,0,0,0,4,Auditory
-247,194,37,-65,40,3.99,12.4,0,0,0,0,8,Fronto-parietal Task Control
-157,218,31,56,14,3.99,13.7,0,0,0,0,9,Salience
-160,59,-5,18,34,4.06,8.9,0,0,0,0,3,Cingulo-opercular Task Control
-23,50,-16,-5,71,4.07,11.6,0,0,0,0,3,Cingulo-opercular Task Control
-154,211,34,16,-8,4.08,15.2,0,0,0,0,9,Salience
-153,213,-1,15,44,4.08,9.4,0,0,0,0,9,Salience
-175,234,9,-4,6,4.09,0,0,0,0,0,10,Subcortical
-33,48,54,-28,34,4.13,12.7,1,1,0,0,3,Cingulo-opercular Task Control
-51,55,-45,0,9,4.16,11.5,0,0,0,0,3,Cingulo-opercular Task Control
-248,195,-42,-55,45,4.17,8.4,0,0,0,0,8,Fronto-parietal Task Control
-172,231,29,1,4,4.19,0,0,0,0,0,10,Subcortical
-63,236,-56,-50,10,4.28,16.5,1,0,1,0,11,Ventral attention
-60,56,49,8,-1,4.34,9.7,0,0,0,0,3,Cingulo-opercular Task Control
-67,52,37,1,-4,4.36,10.4,0,0,0,0,3,Cingulo-opercular Task Control
-62,54,7,8,51,4.36,11.6,0,0,0,0,3,Cingulo-opercular Task Control
-218,164,-42,-74,0,4.36,8.3,0,0,0,0,7,Visual
-159,212,-11,26,25,4.46,10.9,0,0,0,0,9,Salience
-259,261,-32,-1,54,4.46,18.7,0,0,0,0,12,Dorsal attention
-250,204,55,-45,37,4.47,13.4,0,0,0,0,9,Salience
-245,193,32,14,56,4.48,10.9,0,0,0,0,8,Fronto-parietal Task Control
-162,216,5,23,37,4.48,13.3,1,0,0,1,9,Salience
-238,260,-27,-71,37,4.48,16.2,0,0,0,0,12,Dorsal attention
-142,239,51,-29,-4,4.5,12,1,1,0,0,11,Ventral attention
-170,229,31,-14,2,4.57,12.5,0,0,0,0,10,Subcortical
-241,202,-3,26,44,4.58,13.2,0,0,0,0,8,Fronto-parietal Task Control
-149,60,36,10,1,4.7,6,0,0,0,0,3,Cingulo-opercular Task Control
-143,196,40,18,40,4.79,9.9,0,0,0,0,8,Fronto-parietal Task Control
-66,252,-52,-63,5,4.84,14.3,1,0,0,1,12,Dorsal attention
-138,138,-10,11,67,4.86,14.7,0,0,0,0,11,Ventral attention
-121,122,12,36,20,4.88,10.1,0,0,0,0,5,Default mode
-161,215,0,30,27,4.88,10.3,0,0,0,0,9,Salience
-177,203,11,-39,50,4.93,15.3,0,0,0,0,9,Salience
-148,57,-34,3,4,5.04,9.8,0,0,0,0,3,Cingulo-opercular Task Control
-180,242,-49,25,-1,5.07,12.9,1,0,1,0,11,Ventral attention
-31,255,47,-30,49,5.28,10.4,1,0,0,1,1,Sensory/somatomotor Hand
-257,259,-33,-46,47,5.32,9.1,0,0,0,0,12,Dorsal attention
-227,262,-42,-60,-9,5.35,12.3,1,1,1,1,12,Dorsal attention
-151,209,36,22,3,5.38,11.7,1,1,0,0,9,Salience
-150,208,-35,20,0,5.46,16.4,1,1,1,0,9,Salience
-58,263,-17,-59,64,5.67,7.5,1,0,0,1,12,Dorsal attention
-224,258,25,-58,60,5.76,10.2,0,0,0,0,12,Dorsal attention
-68,257,46,-59,4,5.78,13.9,0,0,0,0,12,Dorsal attention
-226,256,22,-65,48,5.79,15.6,0,0,0,0,12,Dorsal attention
-56,264,29,-5,54,5.93,13.2,0,0,0,0,12,Dorsal attention
+ROI_Power2013,ROI_Power2011,X,Y,Z,Participation_Coefficient,Community_Density,In_Dyslexia,In_Maisog2008,In_Richlan2009,In_Paulesu2014,MasterAssignment_Power2011,SuggestedSystem_Power2011,Labels_TT_Daemon
+222,1,-25,-98,-12,0.0,11.2,0,0,0,0,-1,Uncertain,"L lingual gyrus, L BA 18"
+147,2,27,-97,-13,0.0,7.8,0,0,0,0,-1,Uncertain,"R lingual gyrus, R BA 18"
+256,3,24,32,-18,0.0,8.2,0,0,0,0,-1,Uncertain,R middle frontal gyrus
+261,4,-56,-45,-24,0.0,4.8,1,1,0,0,-1,Uncertain,"L inferior temporal gyrus, L BA 37"
+225,5,8,41,-24,0.0,7.7,0,0,0,0,-1,Uncertain,R orbital gyrus
+130,6,-21,-22,-20,0.0,8.0,0,0,0,0,-1,Uncertain,"L parahippocampal gyrus, L BA 35"
+136,7,17,-28,-17,0.0,8.5,0,0,0,0,-1,Uncertain,R culmen
+260,8,-37,-29,-26,0.0,7.9,1,0,1,0,-1,Uncertain,L parahippocampal gyrus
+132,9,65,-24,-19,0.0,8.7,0,0,0,0,-1,Uncertain,"R inferior temporal gyrus, R BA 20"
+263,10,52,-34,-27,0.0,4.1,1,1,0,0,-1,Uncertain,R fusiform gyrus
+264,11,55,-31,-17,0.0,9.0,0,0,0,0,-1,Uncertain,R middle temporal gyrus
+2,18,-7,-33,72,0.0,5.3,0,0,0,0,1,Sensory/somatomotor Hand,L paracentral lobule
+3,19,13,-33,75,0.0,5.4,0,0,0,0,1,Sensory/somatomotor Hand,R precentral gyrus
+6,31,10,-17,74,0.0,5.3,0,0,0,0,1,Sensory/somatomotor Hand,R medial frontal gyrus
+9,39,2,-28,60,0.0,8.4,0,0,0,0,1,Sensory/somatomotor Hand,"R medial frontal gyrus, R BA 6"
+122,75,6,67,-4,0.0,9.4,0,0,0,0,5,Default mode,R superior frontal gyrus
+82,76,8,48,-15,0.0,10.3,0,0,0,0,5,Default mode,R medial frontal gyrus
+146,78,-18,63,-9,0.0,8.8,0,0,0,0,5,Default mode,"L superior frontal gyrus, L BA 11"
+133,83,-68,-23,-16,0.0,7.3,0,0,0,0,5,Default mode,L middle temporal gyrus
+134,84,-58,-26,-15,0.0,7.4,0,0,0,0,-1,Uncertain,"L middle temporal gyrus, L BA 21"
+105,104,-20,45,39,0.0,7.6,0,0,0,0,5,Default mode,"L superior frontal gyrus, L BA 9"
+90,106,6,64,22,0.0,4.9,0,0,0,0,5,Default mode,"R medial frontal gyrus, R BA 10"
+84,116,65,-12,-19,0.0,8.0,0,0,0,0,5,Default mode,"R inferior temporal gyrus, R BA 21"
+141,132,-31,19,-19,0.0,12.7,0,0,0,0,-1,Uncertain,L inferior frontal gyrus
+221,141,17,-91,-14,0.0,7.8,0,0,0,0,-1,Uncertain,R inferior occipital gyrus
+196,151,-15,-72,-8,0.0,3.9,0,0,0,0,7,Visual,L lingual gyrus
+201,158,20,-86,-2,0.0,4.7,0,0,0,0,7,Visual,"R lingual gyrus, R BA 17"
+202,159,15,-77,31,0.0,8.6,0,0,0,0,7,Visual,"R cuneus, R BA 7"
+210,165,26,-79,-16,0.0,6.3,0,0,0,0,7,Visual,"R lingual gyrus, R BA 18"
+252,181,34,54,-13,0.0,8.0,0,0,0,0,8,Fronto-parietal Task Control,R middle frontal gyrus
+167,226,-5,-28,-4,0.0,0.0,0,0,0,0,10,Subcortical,L thalamus
+186,247,33,-12,-34,0.0,6.7,0,0,0,0,-1,Uncertain,R uncus
+188,250,-50,-7,-39,0.0,5.1,0,0,0,0,-1,Uncertain,L inferior temporal gyrus
+1,264,-7,-21,65,0.0,5.7,0,0,0,0,1,Sensory/somatomotor Hand,L medial frontal gyrus
+193,148,20,-66,2,0.04,4.3,0,0,0,0,7,Visual,R lingual gyrus
+208,170,6,-81,6,0.06,4.2,0,0,0,0,7,Visual,R cuneus
+219,172,-33,-79,-13,0.06,8.5,0,0,0,0,7,Visual,L middle occipital gyrus
+72,89,6,-59,35,0.08,4.3,0,0,0,0,5,Default mode,R precuneus
+108,114,-20,64,19,0.09,6.6,0,0,0,0,5,Default mode,"L superior frontal gyrus, L BA 10"
+16,37,-38,-15,69,0.1,4.9,0,0,0,0,1,Sensory/somatomotor Hand,L precentral gyrus
+207,167,-3,-81,21,0.12,5.3,1,1,0,0,7,Visual,"L cuneus, L BA 18"
+7,34,-21,-31,61,0.13,5.6,0,0,0,0,1,Sensory/somatomotor Hand,"L postcentral gyrus, L BA 3"
+13,27,-38,-27,69,0.14,3.8,0,0,0,0,1,Sensory/somatomotor Hand,L precentral gyrus
+5,28,20,-29,60,0.15,5.8,0,0,0,0,1,Sensory/somatomotor Hand,"R precentral gyrus, R BA 4"
+8,35,-13,-17,75,0.15,5.3,0,0,0,0,1,Sensory/somatomotor Hand,L superior frontal gyrus
+15,36,42,-20,55,0.15,5.2,1,0,0,1,1,Sensory/somatomotor Hand,"R postcentral gyrus, R BA 3"
+4,23,-23,-30,72,0.18,4.2,0,0,0,0,1,Sensory/somatomotor Hand,L precentral gyrus
+10,40,3,-17,58,0.18,5.6,0,0,0,0,1,Sensory/somatomotor Hand,"R medial frontal gyrus, R BA 6"
+190,145,8,-72,11,0.19,5.3,0,0,0,0,7,Visual,R cuneus
+98,86,-44,-65,35,0.2,4.1,0,0,0,0,5,Default mode,L angular gyrus
+12,24,-40,-19,54,0.21,6.6,1,0,1,0,1,Sensory/somatomotor Hand,L precentral gyrus
+103,102,13,55,38,0.21,5.2,0,0,0,0,5,Default mode,R superior frontal gyrus
+93,109,-3,44,-9,0.21,6.0,0,0,0,0,5,Default mode,"L medial frontal gyrus, L BA 11"
+191,146,-8,-81,7,0.22,3.8,0,0,0,0,7,Visual,L cuneus
+128,82,46,16,-30,0.23,12.1,0,0,0,0,5,Default mode,"R superior temporal gyrus, R BA 38"
+89,105,6,54,16,0.23,4.6,0,0,0,0,5,Default mode,R medial frontal gyrus
+11,21,29,-17,71,0.24,4.4,0,0,0,0,1,Sensory/somatomotor Hand,R precentral gyrus
+126,81,-44,12,-34,0.24,10.5,0,0,0,0,5,Default mode,"L superior temporal gyrus, L BA 38"
+168,227,-22,7,-5,0.25,0.0,0,0,0,0,10,Subcortical,"L lentiform nucleus, L putamen"
+92,108,9,54,3,0.26,7.1,0,0,0,0,5,Default mode,"R medial frontal gyrus, R BA 10"
+77,95,11,-54,17,0.28,7.8,0,0,0,0,5,Default mode,R posterior cingulate
+47,42,-49,-11,35,0.29,9.8,0,0,0,0,2,Sensory/somatomotor Mouth,L precentral gyrus
+213,168,-40,-88,-6,0.29,7.7,0,0,0,0,7,Visual,L inferior occipital gyrus
+215,171,-26,-90,3,0.3,5.8,0,0,0,0,7,Visual,"L middle occipital gyrus, L BA 19"
+199,156,15,-87,37,0.31,5.2,0,0,0,0,7,Visual,"R precuneus, R BA 19"
+198,155,-14,-91,31,0.32,3.9,0,0,0,0,7,Visual,"L cuneus, L BA 19"
+203,160,-16,-52,-1,0.32,6.9,0,0,0,0,7,Visual,L lingual gyrus
+81,74,-41,-75,26,0.33,14.9,0,0,0,0,5,Default mode,L middle temporal gyrus
+24,14,-14,-18,40,0.36,15.5,0,0,0,0,1,Sensory/somatomotor Hand,"L cingulate gyrus, L BA 24"
+197,152,-18,-68,5,0.36,4.8,0,0,0,0,7,Visual,L cuneus
+187,248,-31,-10,-36,0.36,7.8,0,0,0,0,-1,Uncertain,"L uncus, L BA 20"
+97,115,-8,48,23,0.37,4.9,0,0,0,0,5,Default mode,L medial frontal gyrus
+91,107,-7,51,-1,0.4,6.3,0,0,0,0,5,Default mode,"L medial frontal gyrus, L BA 10"
+144,249,49,-3,-38,0.4,7.4,0,0,0,0,-1,Uncertain,"R inferior temporal gyrus, R BA 20"
+195,150,27,-59,-9,0.43,5.3,0,0,0,0,7,Visual,R parahippocampal gyrus
+17,41,38,-17,45,0.44,10.5,0,0,0,0,1,Sensory/somatomotor Hand,R precentral gyrus
+48,44,51,-6,32,0.46,12.7,0,0,0,0,2,Sensory/somatomotor Mouth,"R precentral gyrus, R BA 6"
+101,99,-16,29,53,0.46,6.6,0,0,0,0,5,Default mode,L superior frontal gyrus
+140,85,27,16,-17,0.47,10.5,0,0,0,0,-1,Uncertain,R inferior frontal gyrus
+71,88,-7,-55,27,0.47,5.3,0,0,0,0,5,Default mode,L cingulate gyrus
+87,79,-46,-61,21,0.48,9.6,0,0,0,0,5,Default mode,"L middle temporal gyrus, L BA 39"
+75,92,8,-48,31,0.51,4.3,0,0,0,0,5,Default mode,"R cingulate gyrus, R BA 31"
+22,38,-16,-46,73,0.52,9.3,0,0,0,0,1,Sensory/somatomotor Hand,L postcentral gyrus
+220,140,8,-91,-7,0.53,7.9,0,0,0,0,-1,Uncertain,R lingual gyrus
+106,121,13,30,59,0.56,8.0,0,0,0,0,5,Default mode,"R superior frontal gyrus, R BA 6"
+127,128,52,7,-30,0.61,11.5,0,0,0,0,5,Default mode,"R middle temporal gyrus, R BA 21"
+131,136,4,-48,51,0.61,13.1,0,0,0,0,6,Memory retrieval?,"R precuneus, R BA 7"
+184,245,22,-58,-23,0.61,0.0,0,0,0,0,13,Cerebellar,R declive
+204,162,24,-87,24,0.62,4.2,0,0,0,0,7,Visual,R cuneus
+129,129,-53,3,-27,0.64,9.2,0,0,0,0,5,Default mode,L middle temporal gyrus
+194,149,-24,-91,19,0.64,4.5,0,0,0,0,7,Visual,L cuneus
+112,124,-26,-40,-8,0.65,15.7,0,0,0,0,5,Default mode,L parahippocampal gyrus
+104,103,-10,55,39,0.66,3.8,0,0,0,0,5,Default mode,"L superior frontal gyrus, L BA 9"
+73,90,-11,-56,16,0.73,8.9,0,0,0,0,5,Default mode,L posterior cingulate
+145,12,34,38,-12,0.81,10.6,0,0,0,0,-1,Uncertain,"R middle frontal gyrus, R BA 11"
+74,91,-3,-49,13,0.84,7.4,0,0,0,0,5,Default mode,"L posterior cingulate, L BA 30"
+185,246,1,-62,-18,0.85,0.0,0,0,0,0,13,Cerebellar,R declive
+109,117,-56,-13,-10,0.86,11.7,0,0,0,0,5,Default mode,L middle temporal gyrus
+211,153,43,-78,-12,0.91,6.8,0,0,0,0,7,Visual,"R inferior occipital gyrus, R BA 19"
+124,127,28,-77,-32,0.92,0.0,0,0,0,0,5,Default mode,R uvula
+209,143,18,-47,-10,0.92,9.8,0,0,0,0,7,Visual,"R parahippocampal gyrus, R BA 19"
+206,166,-16,-77,34,0.92,13.1,0,0,0,0,7,Visual,L precuneus
+76,93,15,-63,26,0.93,9.1,0,0,0,0,5,Default mode,"R precuneus, R BA 31"
+216,173,37,-81,1,0.95,4.3,0,0,0,0,7,Visual,R middle occipital gyrus
+38,64,-38,-33,17,0.96,6.3,0,0,0,0,4,Auditory,"L superior temporal gyrus, L BA 41"
+30,26,50,-20,42,0.98,10.1,0,0,0,0,1,Sensory/somatomotor Hand,"R postcentral gyrus, R BA 3"
+49,45,-53,-10,24,0.99,10.5,0,0,0,0,2,Sensory/somatomotor Mouth,L precentral gyrus
+164,222,6,-24,0,0.99,0.0,0,0,0,0,10,Subcortical,R thalamus
+223,142,-12,-95,-13,1.0,10.8,1,0,1,0,-1,Uncertain,"L lingual gyrus, L BA 17"
+229,175,48,25,27,1.0,9.0,0,0,0,0,8,Fronto-parietal Task Control,R middle frontal gyrus
+50,46,66,-8,25,1.02,8.6,0,0,0,0,2,Sensory/somatomotor Mouth,R precentral gyrus
+79,97,23,33,48,1.02,6.2,0,0,0,0,5,Default mode,"R superior frontal gyrus, R BA 8"
+80,101,22,39,39,1.02,12.1,0,0,0,0,5,Default mode,"R superior frontal gyrus, R BA 9"
+254,180,24,45,-15,1.04,8.6,0,0,0,0,8,Fronto-parietal Task Control,"R superior frontal gyrus, R BA 11"
+100,98,-10,39,52,1.13,5.4,0,0,0,0,5,Default mode,L superior frontal gyrus
+94,110,8,42,-5,1.13,7.1,0,0,0,0,5,Default mode,"R anterior cingulate, R BA 10"
+113,125,27,-37,-13,1.17,15.3,0,0,0,0,5,Default mode,R parahippocampal gyrus
+189,144,40,-72,14,1.26,9.7,0,0,0,0,7,Visual,R middle temporal gyrus
+85,119,65,-31,-9,1.42,11.7,0,0,0,0,5,Default mode,R middle temporal gyrus
+19,25,29,-39,59,1.43,9.1,0,0,0,0,1,Sensory/somatomotor Hand,R postcentral gyrus
+181,243,-16,-65,-20,1.43,0.0,0,0,0,0,13,Cerebellar,L declive
+78,96,52,-59,36,1.44,6.2,0,0,0,0,5,Default mode,R angular gyrus
+29,20,-54,-23,43,1.47,8.3,0,0,0,0,1,Sensory/somatomotor Hand,L postcentral gyrus
+107,94,-2,-37,44,1.47,13.3,0,0,0,0,5,Default mode,"L cingulate gyrus, L BA 31"
+40,66,-49,-26,5,1.49,10.6,1,0,1,0,4,Auditory,"L superior temporal gyrus, L BA 41"
+110,123,52,-2,-16,1.49,13.3,0,0,0,0,5,Default mode,R middle temporal gyrus
+88,80,43,-72,28,1.52,16.6,0,0,0,0,5,Default mode,R middle temporal gyrus
+99,87,-39,-75,44,1.55,7.3,0,0,0,0,5,Default mode,L superior parietal lobule
+36,67,43,-23,20,1.56,9.6,0,0,0,0,4,Auditory,R insula
+200,157,29,-77,25,1.59,7.3,0,0,0,0,7,Visual,R cuneus
+18,22,10,-46,73,1.62,15.4,0,0,0,0,1,Sensory/somatomotor Hand,R postcentral gyrus
+21,32,22,-42,69,1.64,9.1,0,0,0,0,1,Sensory/somatomotor Hand,R postcentral gyrus
+86,120,-68,-41,-5,1.64,8.0,0,0,0,0,5,Default mode,L middle temporal gyrus
+214,169,37,-84,13,1.65,4.9,0,0,0,0,7,Visual,R middle occipital gyrus
+258,253,-47,-51,-21,1.66,11.6,1,0,1,1,-1,Uncertain,L fusiform gyrus
+120,130,47,-50,29,1.68,16.1,0,0,0,0,5,Default mode,R supramarginal gyrus
+135,137,-46,31,-13,1.72,10.8,0,0,0,0,5,Default mode,L inferior frontal gyrus
+95,111,-11,45,8,1.76,5.3,0,0,0,0,5,Default mode,L anterior cingulate
+37,63,58,-16,7,1.88,9.0,0,0,0,0,4,Auditory,R superior temporal gyrus
+34,61,32,-26,13,1.93,12.0,0,0,0,0,4,Auditory,"R insula, R BA 13"
+123,184,17,-80,-34,1.95,0.0,0,0,0,0,-1,Uncertain,R uvula
+255,182,-21,41,-20,1.99,7.8,0,0,0,0,-1,Uncertain,"L superior frontal gyrus, L BA 11"
+237,201,-42,25,30,2.01,8.5,0,0,0,0,8,Fronto-parietal Task Control,L middle frontal gyrus
+165,224,-10,-18,7,2.03,0.0,1,1,0,0,10,Subcortical,"L thalamus, L medial dorsal nucleus"
+251,179,58,-53,-14,2.04,12.3,0,0,0,0,8,Fronto-parietal Task Control,"R middle temporal gyrus, R BA 37"
+183,244,-32,-55,-25,2.04,10.2,0,0,0,0,13,Cerebellar,L declive
+217,154,-47,-76,-10,2.06,14.3,0,0,0,0,7,Visual,L middle occipital gyrus
+26,51,-10,-2,42,2.11,12.8,0,0,0,0,3,Cingulo-opercular Task Control,L cingulate gyrus
+42,68,-50,-34,26,2.12,14.2,1,1,0,0,4,Auditory,L inferior parietal lobule
+244,192,44,-53,47,2.13,9.0,0,0,0,0,8,Fronto-parietal Task Control,"R inferior parietal lobule, R BA 40"
+41,43,36,-9,14,2.15,13.1,0,0,0,0,2,Sensory/somatomotor Mouth,R insula
+192,147,-28,-79,19,2.17,12.2,0,0,0,0,7,Visual,L middle occipital gyrus
+20,30,-29,-43,61,2.22,8.5,0,0,0,0,1,Sensory/somatomotor Hand,"L postcentral gyrus, L BA 5"
+27,16,10,-2,45,2.24,11.2,0,0,0,0,1,Sensory/somatomotor Hand,R cingulate gyrus
+39,65,-60,-25,14,2.25,9.2,0,0,0,0,4,Auditory,"L postcentral gyrus, L BA 40"
+45,71,56,-5,13,2.25,12.2,0,0,0,0,4,Auditory,R precentral gyrus
+212,161,42,-66,-8,2.34,8.2,0,0,0,0,7,Visual,R middle occipital gyrus
+43,69,-53,-22,23,2.35,13.4,0,0,0,0,4,Auditory,L postcentral gyrus
+44,70,-55,-9,12,2.38,10.4,0,0,0,0,4,Auditory,L precentral gyrus
+102,100,-35,20,51,2.55,6.1,0,0,0,0,5,Default mode,"L middle frontal gyrus, L BA 8"
+239,191,-28,-58,48,2.62,8.6,0,0,0,0,8,Fronto-parietal Task Control,L superior parietal lobule
+118,135,11,-66,42,2.63,13.6,0,0,0,0,6,Memory retrieval?,R precuneus
+230,186,47,10,33,2.65,12.6,0,0,0,0,8,Fronto-parietal Task Control,"R middle frontal gyrus, R BA 9"
+173,232,-31,-11,0,2.67,0.0,0,0,0,0,10,Subcortical,"L lentiform nucleus, L putamen"
+231,187,-41,6,33,2.69,8.2,0,0,0,0,8,Fronto-parietal Task Control,L inferior frontal gyrus
+243,190,49,-42,45,2.78,8.6,0,0,0,0,8,Fronto-parietal Task Control,R inferior parietal lobule
+111,77,-13,-40,1,2.79,13.0,0,0,0,0,5,Default mode,"L parahippocampal gyrus, L BA 30"
+64,235,54,-43,22,2.79,16.9,0,0,0,0,11,Ventral attention,"R inferior parietal lobule, R BA 13"
+119,118,-58,-30,-4,2.83,10.4,0,0,0,0,5,Default mode,L middle temporal gyrus
+53,237,-55,-40,14,2.94,10.7,1,1,1,0,11,Ventral attention,L superior temporal gyrus
+32,33,-45,-32,47,2.98,9.2,1,0,0,1,1,Sensory/somatomotor Hand,"L postcentral gyrus, L BA 40"
+242,189,38,43,15,3.0,7.7,0,0,0,0,8,Fronto-parietal Task Control,R middle frontal gyrus
+14,29,44,-8,57,3.01,11.5,0,0,0,0,1,Sensory/somatomotor Hand,"R precentral gyrus, R BA 6"
+246,177,-53,-49,43,3.07,13.7,1,0,1,1,8,Fronto-parietal Task Control,L inferior parietal lobule
+115,133,-2,-35,31,3.08,8.2,0,0,0,0,6,Memory retrieval?,"L cingulate gyrus, L BA 31"
+139,139,49,35,-12,3.14,14.0,0,0,0,0,5,Default mode,R inferior frontal gyrus
+166,225,12,-17,8,3.16,0.0,1,1,0,0,10,Subcortical,R thalamus
+28,49,19,-8,64,3.17,13.3,0,0,0,0,3,Cingulo-opercular Task Control,"R middle frontal gyrus, R BA 6"
+169,228,-15,4,8,3.2,0.0,1,0,1,1,10,Subcortical,"L lentiform nucleus, L putamen"
+240,178,-23,11,64,3.27,17.5,0,0,0,0,8,Fronto-parietal Task Control,L middle frontal gyrus
+35,62,65,-33,20,3.28,11.0,0,0,0,0,4,Auditory,"R superior temporal gyrus, R BA 42"
+235,198,-42,45,-2,3.33,11.1,0,0,0,0,8,Fronto-parietal Task Control,L middle frontal gyrus
+232,188,-42,38,21,3.35,7.7,0,0,0,0,8,Fronto-parietal Task Control,"L middle frontal gyrus, L BA 46"
+52,47,-3,2,53,3.36,9.5,1,0,0,1,3,Cingulo-opercular Task Control,L medial frontal gyrus
+83,112,-2,38,36,3.36,8.6,0,0,0,0,5,Default mode,"L medial frontal gyrus, L BA 9"
+137,131,-49,-42,1,3.36,12.7,0,0,0,0,5,Default mode,L middle temporal gyrus
+25,15,0,-15,47,3.39,14.6,0,0,0,0,1,Sensory/somatomotor Hand,L paracentral lobule
+114,126,-34,-38,-16,3.39,17.4,0,0,0,0,5,Default mode,"L fusiform gyrus, L BA 37"
+171,230,23,10,1,3.39,0.0,0,0,0,0,10,Subcortical,"R lentiform nucleus, R putamen"
+125,185,35,-67,-34,3.4,0.0,0,0,0,0,-1,Uncertain,R uvula
+249,199,33,-53,44,3.4,10.8,0,0,0,0,8,Fronto-parietal Task Control,R inferior parietal lobule
+55,53,13,-1,70,3.42,8.6,0,0,0,0,3,Cingulo-opercular Task Control,R superior frontal gyrus
+179,241,53,33,1,3.44,15.1,0,0,0,0,11,Ventral attention,R inferior frontal gyrus
+117,134,-7,-71,42,3.45,14.5,0,0,0,0,6,Memory retrieval?,"L precuneus, L BA 7"
+61,58,-51,8,-2,3.46,11.6,0,0,0,0,3,Cingulo-opercular Task Control,"L superior temporal gyrus, L BA 22"
+65,240,56,-46,11,3.46,12.8,0,0,0,0,11,Ventral attention,R superior temporal gyrus
+155,214,-28,52,21,3.5,10.8,0,0,0,0,9,Salience,L superior frontal gyrus
+158,219,26,50,27,3.5,9.6,0,0,0,0,9,Salience,"R superior frontal gyrus, R BA 10"
+176,223,-2,-13,12,3.51,0.0,1,0,1,0,10,Subcortical,L thalamus
+182,183,-18,-76,-24,3.58,0.0,0,0,0,0,-1,Uncertain,L declive
+96,113,-3,42,16,3.59,6.7,0,0,0,0,5,Default mode,"L anterior cingulate, L BA 32"
+174,233,15,5,7,3.61,0.0,0,0,0,0,10,Subcortical,"R lentiform nucleus, R putamen"
+156,206,31,33,26,3.63,14.4,1,0,1,0,9,Salience,R middle frontal gyrus
+59,238,52,-33,8,3.63,10.5,0,0,0,0,11,Ventral attention,R superior temporal gyrus
+152,210,37,32,-2,3.71,15.4,0,0,0,0,9,Salience,R inferior frontal gyrus
+205,163,6,-72,24,3.72,8.9,0,0,0,0,7,Visual,R precuneus
+228,220,-39,51,17,3.72,11.9,0,0,0,0,9,Salience,"L middle frontal gyrus, L BA 10"
+236,200,43,49,-2,3.73,13.2,0,0,0,0,8,Fronto-parietal Task Control,R middle frontal gyrus
+233,176,-47,11,23,3.74,12.2,0,0,0,0,8,Fronto-parietal Task Control,L inferior frontal gyrus
+69,254,46,-47,-17,3.78,12.8,0,0,0,0,-1,Uncertain,R fusiform gyrus
+70,205,42,0,47,3.8,15.4,0,0,0,0,9,Salience,"R middle frontal gyrus, R BA 6"
+163,217,10,22,27,3.8,11.8,0,0,0,0,9,Salience,R anterior cingulate
+46,72,59,-17,29,3.86,12.9,1,0,1,0,4,Auditory,"R postcentral gyrus, R BA 3"
+253,174,-44,2,46,3.89,17.5,1,0,0,1,8,Fronto-parietal Task Control,L middle frontal gyrus
+234,197,-34,55,4,3.9,11.8,0,0,0,0,8,Fronto-parietal Task Control,"L middle frontal gyrus, L BA 10"
+116,221,2,-24,30,3.9,6.6,0,0,0,0,6,Memory retrieval?,R cingulate gyrus
+57,13,-7,-52,61,3.91,14.8,0,0,0,0,1,Sensory/somatomotor Hand,"L precuneus, L BA 7"
+178,207,48,22,10,3.92,14.7,0,0,0,0,9,Salience,"R inferior frontal gyrus, R BA 45"
+262,251,10,-62,61,3.92,14.7,0,0,0,0,12,Dorsal attention,"R precuneus, R BA 7"
+54,73,-30,-27,12,3.97,9.8,0,0,0,0,4,Auditory,L insula
+247,194,37,-65,40,3.99,12.4,0,0,0,0,8,Fronto-parietal Task Control,R inferior parietal lobule
+157,218,31,56,14,3.99,13.7,0,0,0,0,9,Salience,R middle frontal gyrus
+160,59,-5,18,34,4.06,8.9,0,0,0,0,3,Cingulo-opercular Task Control,L cingulate gyrus
+23,50,-16,-5,71,4.07,11.6,0,0,0,0,3,Cingulo-opercular Task Control,L superior frontal gyrus
+154,211,34,16,-8,4.08,15.2,0,0,0,0,9,Salience,R inferior frontal gyrus
+153,213,-1,15,44,4.08,9.4,0,0,0,0,9,Salience,L cingulate gyrus
+175,234,9,-4,6,4.09,0.0,0,0,0,0,10,Subcortical,"R thalamus, R ventral anterior nucleus"
+33,48,54,-28,34,4.13,12.7,1,1,0,0,3,Cingulo-opercular Task Control,"R inferior parietal lobule, R BA 2"
+51,55,-45,0,9,4.16,11.5,0,0,0,0,3,Cingulo-opercular Task Control,"L precentral gyrus, L BA 44"
+248,195,-42,-55,45,4.17,8.4,0,0,0,0,8,Fronto-parietal Task Control,"L inferior parietal lobule, L BA 40"
+172,231,29,1,4,4.19,0.0,0,0,0,0,10,Subcortical,"R lentiform nucleus, R putamen"
+63,236,-56,-50,10,4.28,16.5,1,0,1,0,11,Ventral attention,L superior temporal gyrus
+60,56,49,8,-1,4.34,9.7,0,0,0,0,3,Cingulo-opercular Task Control,R superior temporal gyrus
+67,52,37,1,-4,4.36,10.4,0,0,0,0,3,Cingulo-opercular Task Control,R insula
+62,54,7,8,51,4.36,11.6,0,0,0,0,3,Cingulo-opercular Task Control,"R medial frontal gyrus, R BA 32"
+218,164,-42,-74,0,4.36,8.3,0,0,0,0,7,Visual,L middle occipital gyrus
+159,212,-11,26,25,4.46,10.9,0,0,0,0,9,Salience,L anterior cingulate
+259,261,-32,-1,54,4.46,18.7,0,0,0,0,12,Dorsal attention,"L middle frontal gyrus, L BA 6"
+250,204,55,-45,37,4.47,13.4,0,0,0,0,9,Salience,R supramarginal gyrus
+245,193,32,14,56,4.48,10.9,0,0,0,0,8,Fronto-parietal Task Control,R superior frontal gyrus
+162,216,5,23,37,4.48,13.3,1,0,0,1,9,Salience,"R cingulate gyrus, R BA 32"
+238,260,-27,-71,37,4.48,16.2,0,0,0,0,12,Dorsal attention,L precuneus
+142,239,51,-29,-4,4.5,12.0,1,1,0,0,11,Ventral attention,"R middle temporal gyrus, R BA 21"
+170,229,31,-14,2,4.57,12.5,0,0,0,0,10,Subcortical,"R lentiform nucleus, R putamen"
+241,202,-3,26,44,4.58,13.2,0,0,0,0,8,Fronto-parietal Task Control,"L medial frontal gyrus, L BA 8"
+149,60,36,10,1,4.7,6.0,0,0,0,0,3,Cingulo-opercular Task Control,R insula
+143,196,40,18,40,4.79,9.9,0,0,0,0,8,Fronto-parietal Task Control,R precentral gyrus
+66,252,-52,-63,5,4.84,14.3,1,0,0,1,12,Dorsal attention,L middle temporal gyrus
+138,138,-10,11,67,4.86,14.7,0,0,0,0,11,Ventral attention,L superior frontal gyrus
+121,122,12,36,20,4.88,10.1,0,0,0,0,5,Default mode,"R anterior cingulate, R BA 32"
+161,215,0,30,27,4.88,10.3,0,0,0,0,9,Salience,L anterior cingulate
+177,203,11,-39,50,4.93,15.3,0,0,0,0,9,Salience,"R paracentral lobule, R BA 5"
+148,57,-34,3,4,5.04,9.8,0,0,0,0,3,Cingulo-opercular Task Control,L claustrum
+180,242,-49,25,-1,5.07,12.9,1,0,1,0,11,Ventral attention,"L inferior frontal gyrus, L BA 47"
+31,255,47,-30,49,5.28,10.4,1,0,0,1,1,Sensory/somatomotor Hand,R postcentral gyrus
+257,259,-33,-46,47,5.32,9.1,0,0,0,0,12,Dorsal attention,L inferior parietal lobule
+227,262,-42,-60,-9,5.35,12.3,1,1,1,1,12,Dorsal attention,L middle occipital gyrus
+151,209,36,22,3,5.38,11.7,1,1,0,0,9,Salience,"R insula, R BA 13"
+150,208,-35,20,0,5.46,16.4,1,1,1,0,9,Salience,"L insula, L BA 47"
+58,263,-17,-59,64,5.67,7.5,1,0,0,1,12,Dorsal attention,"L superior parietal lobule, L BA 7"
+224,258,25,-58,60,5.76,10.2,0,0,0,0,12,Dorsal attention,"R superior parietal lobule, R BA 7"
+68,257,46,-59,4,5.78,13.9,0,0,0,0,12,Dorsal attention,R middle temporal gyrus
+226,256,22,-65,48,5.79,15.6,0,0,0,0,12,Dorsal attention,R precuneus
+56,264,29,-5,54,5.93,13.2,0,0,0,0,12,Dorsal attention,R middle frontal gyrus
