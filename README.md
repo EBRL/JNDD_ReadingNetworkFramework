@@ -1,6 +1,6 @@
 # Applying a network framework to the study of reading and dyslexia
-### Bailey, Aboud, Nguyen and Cutting
-### Journal of Neurodevelopmental Disabilities
+#### Bailey, Aboud, Nguyen and Cutting
+#### Journal of Neurodevelopmental Disabilities
 
 This repository contains supplementary data and details for the analyses presented in this paper. Data is organized into folders based on the figures / analysis performed. Many of the analyses are based on publicly available datasets, the details of which can be found below. 
 
