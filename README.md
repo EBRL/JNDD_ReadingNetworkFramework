@@ -16,7 +16,6 @@ This repository contains supplementary data and details for the analyses present
 
 <img src="img/fig2_modularity.png" alt="Figure 2" width="600px"  align="middle">
 
-- **Bailey2017_Bx-Modularity.xlsx**: Summary data for each subject and year, including scores for the Test of Word Reading Efficiency and the modularity values for each resting-state network.
 - **Bailey2017_ROI-Details.csv**: Node list including community assignments, hub measures and whether it was implicated in dyslexia. Node data (coordinates and network measures) is merged across the tables from Power et al., 2011 and Power et al., 2013, included elsewhere in this repository. Coordinates are in MNI space.
 - **Power2011_ConsensusCommunities.xlsx**: Original supplemental data listing consensus communities for each node, made available by Jonathan Power on his [personal website](https://www.jonathanpower.net/2011-neuron-bigbrain.html).
 
